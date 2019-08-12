@@ -1,0 +1,29 @@
+{
+    "name": "ocular-d",
+    "displayName": "writing-extension-pack",
+    "description": "A extension pack for creating stunning (API) documentation",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ocular-d/writing-extension-pack"
+},
+"icon": "icon.png",
+"extensionPack": [
+    "robbowen.synthwave-vscode",
+    "laurenttreguier.vscode-simple-icons",
+    "visualstudioexptteam.vscodeintellicode",
+    "oderwat.indent-rainbow",
+    "wix.vscode-import-cost",
+    "dbaeumer.vscode-eslint",
+    "coenraads.bracket-pair-colorizer-2",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "mikestead.dotenv",
+    "jamesbirtles.svelte-vscode"
+]
+}
