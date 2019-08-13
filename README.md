@@ -9,7 +9,7 @@
   <h3 align="center">Demo Docs</h3>
 
   <p align="center">
-    Example documentation for demos and DocOps showcases
+    Meta extension to install a list of extensions for writing documentation
     <br />
     <a href="https://github.com/ocular-d/writing-extension-pack"><strong>Explore the docs »</strong></a>
     <br />
