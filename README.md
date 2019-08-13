@@ -1,16 +1,100 @@
-# README
 
-## This is the README for your extension pack "ocular-d"
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/ocular-d/writing-extension-pack">
+    <img src="icon.png" alt="Logo" width="80" height="80">
+  </a>
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+  <h3 align="center">Demo Docs</h3>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+  <p align="center">
+    Example documentation for demos and DocOps showcases
+    <br />
+    <a href="https://github.com/ocular-d/writing-extension-pack"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ocular-d/writing-extension-pack/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ocular-d/writing-extension-pack/issues">Request Feature</a>
+  </p>
+</p>
 
-## For more information
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [About the Project](#about)
+- [Dependencies](#dependencies)
+- [Included Extensions](#included-extensions)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
 
-**Enjoy!**
+## About
+
+This repository contains example documentation written in [Markdown](https://en.wikipedia.org/wiki/Markdown "Link to wikipedia").
+
+It is used to showcase *Docs As Code* and *DocOps*.
+
+## Dependencies
+
+- [vale](https://errata-ai.github.io/vale/ "Link to Vale linter")
+- [remark](https://github.com/remarkjs/remark-lint)
+- [remark-cli](https://www.npmjs.com/package/remark-cli)
+- [remark-preset-lint-recommended](https://www.npmjs.com/package/remark-preset-lint-recommended)
+- [remark-preset-lint-consistent](https://www.npmjs.com/package/remark-preset-lint-consistent)
+- [remark-validate-links](https://github.com/remarkjs/remark-validate-links)
+- [remark-preset-lint-markdown-style-guide](https://www.npmjs.com/package/remark-preset-lint-markdown-style-guide)
+
+## Included Extensions
+
+### Code
+
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+### Git
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+### Markdown
+
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+- [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)
+- [Remark](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-remark)
+- [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint)
+
+### Writing
+
+- [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount)
+- [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces)
+- [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time)
+- [Vale](https://marketplace.visualstudio.com/items?itemName=testthedocs.vale)
+
+### Icons
+
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+### Themes
+
+- [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
+
+
+
+
+## Contributing
+
+We are a community effort, and everybody is most welcome to participate!
+
+Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution, we encourage contributions from everyone.
+
+## License
+
+Distributed under the [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html "Link to license") license.
+
+## Credits
+
+- [Pronovix](https://pronovix.com/ "Link to Pronovix website")

@@ -7,6 +7,7 @@
 *.egg-info
 *.EGG-INFO
 .*.cfg
+*.vsix
 bin/
 build/
 develop-eggs/
