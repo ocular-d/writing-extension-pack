@@ -32,9 +32,7 @@
 
 ## About
 
-This repository contains example documentation written in [Markdown](https://en.wikipedia.org/wiki/Markdown "Link to wikipedia").
-
-It is used to showcase *Docs As Code* and *DocOps*.
+Extension package for [VS Code](https://code.visualstudio.com/) for creating stunning Markdown based documentation.
 
 ## Dependencies
 
