@@ -1,13 +1,17 @@
 {
-    "name": "ocular-d",
+    "name": "writing-extension-pack",
     "displayName": "writing-extension-pack",
     "description": "A extension pack for creating stunning (API) documentation",
-    "version": "0.0.1",
+    "publisher": "ocular-d",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.37.0"
     },
     "categories": [
         "Extension Packs"
+    ],
+    "extensionPack": [
+        "publisher.extensionName"
     ],
     "repository": {
         "type": "git",
@@ -15,15 +19,23 @@
 },
 "icon": "icon.png",
 "extensionPack": [
-    "robbowen.synthwave-vscode",
-    "laurenttreguier.vscode-simple-icons",
-    "visualstudioexptteam.vscodeintellicode",
-    "oderwat.indent-rainbow",
-    "wix.vscode-import-cost",
-    "dbaeumer.vscode-eslint",
+    "pnp.polacode",
+    "bierner.markdown-emoji",
+    "AlanWalk.markdown-toc",
+    "coenraadS.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "ms-vscode.wordcount",
     "coenraads.bracket-pair-colorizer-2",
-    "ms-vscode-remote.vscode-remote-extensionpack",
-    "mikestead.dotenv",
-    "jamesbirtles.svelte-vscode"
+    "ms-vscode.wordcount",
+    "myh.preview-vscode",
+    "mrmlnc.vscode-remark",
+    "johnpapa.read-time",
+    "vincaslt.highlight-matching-tag",
+    "pkief.material-icon-theme",
+    "Hyzeta.vscode-theme-github-light",
+    "eamodio.gitlens",
+    "drewbourne.vscode-remark-lint",
+    "oderwat.indent-rainbow",
+    "testthedocs.vale"
 ]
 }
