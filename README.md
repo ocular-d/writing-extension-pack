@@ -20,6 +20,8 @@
   </p>
 </p>
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ocular-d.writing-extension-pack)
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -71,6 +73,7 @@ Extension package for [VS Code](https://code.visualstudio.com/) for creating stu
 - [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces)
 - [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time)
 - [Vale](https://marketplace.visualstudio.com/items?itemName=testthedocs.vale)
+- [Line Endings](https://marketplace.visualstudio.com/items?itemName=jhartell.vscode-line-endings)
 
 ### Icons
 
