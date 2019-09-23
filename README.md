@@ -6,10 +6,10 @@
     <img src="https://raw.githubusercontent.com/ocular-d/writing-extension-pack/master/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Demo Docs</h3>
+  <h3 align="center">(Technical) Writing</h3>
 
   <p align="center">
-    Meta extension to install a list of extensions for writing documentation
+    Meta extension to install a list of extensions for writing (API) documentation
     <br />
     <a href="https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack"><strong>VisualStudio  | Marketplace »</strong></a>
     <br />
