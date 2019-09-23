@@ -11,7 +11,7 @@
   <p align="center">
     Meta extension to install a list of extensions for writing documentation
     <br />
-    <a href="https://github.com/ocular-d/writing-extension-pack"><strong>Explore the docs »</strong></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack"><strong>VisualStudio  | Marketplace »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ocular-d/writing-extension-pack/issues">Report Bug</a>
