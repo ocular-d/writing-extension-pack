@@ -14,6 +14,10 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack"><strong>VisualStudio  | Marketplace »</strong></a>
     <br />
     <br />
+    <img src="https://img.shields.io/vscode-marketplace/d/ocular-d.writing-extension-pack.svg" />
+    <img src="https://img.shields.io/vscode-marketplace/i/ocular-d.writing-extension-pack.svg" />
+    <img src="https://img.shields.io/github/license/ocular-d/writing-extension-pack" />
+    <br />
     <a href="https://github.com/ocular-d/writing-extension-pack/issues">Report Bug</a>
     ·
     <a href="https://github.com/ocular-d/writing-extension-pack/issues">Request Feature</a>
