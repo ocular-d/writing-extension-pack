@@ -9,7 +9,7 @@
   <h3 align="center">(Technical) Writing</h3>
 
   <p align="center">
-    Meta extension to install a list of extensions for writing (API) documentation
+    Extension Pack to install a list of extensions for writing (API) documentation
     <br />
     <a href="https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack" title="Link to this extension on VS Code marketplace"><strong>VisualStudio  | Marketplace »</strong></a>
     <br />
@@ -21,6 +21,8 @@
     <a href="https://github.com/ocular-d/writing-extension-pack/issues" title="Link to issue tracker">Report Bug</a>
     ·
     <a href="https://github.com/ocular-d/writing-extension-pack/issues" title="Link to feature tracker">Request Feature</a>
+    ·
+    <a href="https://github.com/ocular-d/writing-extension-pack/blob/master/CHANGELOG.md" title="Link to changelog">Changelog</a>
   </p>
 </p>
 
