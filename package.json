@@ -4,7 +4,7 @@
     "description": "A extension pack for creating stunning (API) documentation",
     "publisher": "ocular-d",
     "license": "GPL-2.0-only",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "engines": {
         "vscode": "^1.37.0"
     },
