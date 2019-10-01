@@ -33,7 +33,8 @@
         "drewbourne.vscode-remark-lint",
         "oderwat.indent-rainbow",
         "testthedocs.vale",
-        "jhartell.vscode-line-endings"
+        "jhartell.vscode-line-endings",
+        "42Crunch.vscode-openapi"
     ],
     "repository": {
         "type": "git",
