@@ -21,3 +21,7 @@ package: ## Builing extension package
 .PHONY: publish
 publish: ## Publish package to Marketplace
 	vsce publish
+
+.PHONY: version-bump
+version-bump: ## Update version
+	npx version-bump-prompt
