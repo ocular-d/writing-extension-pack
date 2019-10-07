@@ -88,7 +88,8 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 
 ### Themes
 
-- [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light "Link to theme")
+- [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light "Link to GitHub theme")
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras "Link to Night Owl theme")
 
 
 

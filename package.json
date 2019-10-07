@@ -35,7 +35,8 @@
         "testthedocs.vale",
         "jhartell.vscode-line-endings",
         "42Crunch.vscode-openapi",
-        "Shan.code-settings-sync"
+        "Shan.code-settings-sync",
+        "sdras.night-owl"
     ],
     "repository": {
         "type": "git",
