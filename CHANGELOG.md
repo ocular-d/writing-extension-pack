@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.2
+
+### Fixed
+
+- #8 Add GitHub action for checking Changelog
+- #16 Add version *bumper* to `Makefile`
+- #17 Add Night Owl Light Theme
+
 ## 1.1.1
 
 ### Docs
