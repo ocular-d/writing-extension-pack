@@ -78,13 +78,18 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time "Link to read time extension")
 - [Vale](https://marketplace.visualstudio.com/items?itemName=testthedocs.vale "Link to Vale extension")
 
+### OpenAPI
+
+- [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi "Link to OpenAPI extension")
+
 ### Icons
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "Link to icon theme")
 
 ### Themes
 
-- [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light "Link to theme")
+- [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light "Link to GitHub theme")
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras "Link to Night Owl theme")
 
 
 
