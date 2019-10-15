@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL = 'https://example.com/'
-title = 'Hugo Book'
+baseURL = 'http://ocular-d.github.io/writing-extension-pack/'
+title = 'Technical Writing'
 theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
