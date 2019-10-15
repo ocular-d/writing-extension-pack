@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Technical Writing</title>
+    <title>Docs on ocular-d</title>
     <link>http://ocular-d.github.io/writing-extension-pack/docs/</link>
-    <description>Recent content in Docs on Technical Writing</description>
+    <description>Recent content in Docs on ocular-d</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="http://ocular-d.github.io/writing-extension-pack/docs/index.xml" rel="self" type="application/rss+xml" />

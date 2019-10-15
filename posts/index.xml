@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Technical Writing</title>
+    <title>Posts on ocular-d</title>
     <link>http://ocular-d.github.io/writing-extension-pack/posts/</link>
-    <description>Recent content in Posts on Technical Writing</description>
+    <description>Recent content in Posts on ocular-d</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
