@@ -3,111 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/docs/example/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/with-toc/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/with-toc/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/without-toc/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/without-toc/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://ocular-d.github.io/writing-extension-pack/posts/creating-a-new-theme/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>http://ocular-d.github.io/writing-extension-pack/posts/migrate-from-jekyll/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://ocular-d.github.io/writing-extension-pack/posts/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>http://ocular-d.github.io/writing-extension-pack/posts/goisforlovers/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://ocular-d.github.io/writing-extension-pack/posts/hugoisforlovers/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/hidden/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/hidden/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/example/table-of-contents/3rd/4th/5th/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/3rd/4th/5th/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/3rd/4th/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/3rd/4th/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/3rd/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/3rd/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/example/table-of-contents/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/buttons/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/buttons/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/columns/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/columns/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/expand/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/expand/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/hints/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/hints/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/katex/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/katex/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/mermaid/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/mermaid/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/shortcodes/tabs/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/tabs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/docs/</loc>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/</loc>
+    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
   
 </urlset>
