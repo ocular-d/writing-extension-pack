@@ -22,6 +22,10 @@ package: ## Builing extension package
 publish: ## Publish package to Marketplace
 	vsce publish
 
+.PHONY: serve-docs
+serve-docs:
+	hugo server -ws docs/ ## Start docs in "server" mode
+
 .PHONY: version-bump
 version-bump: ## Update version
 	npx version-bump-prompt
