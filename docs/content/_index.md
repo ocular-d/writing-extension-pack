@@ -3,7 +3,9 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# About
+
+(Technical) Writing with [Visiual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
 
 {{< columns >}}
 ## Astris ipse furtiva
