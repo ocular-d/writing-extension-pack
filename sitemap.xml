@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/hidden/</loc>
     <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
@@ -109,12 +114,17 @@
   </url>
   
   <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/shortcodes/two/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/</loc>
   </url>
   
   <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/</loc>
-    <lastmod>2019-10-15T15:16:33+02:00</lastmod>
+    <lastmod>2019-10-15T15:50:18+02:00</lastmod>
   </url>
   
 </urlset>
