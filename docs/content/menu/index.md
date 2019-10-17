@@ -2,16 +2,16 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})  
-- **Shortcodes**
-- [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
-- [Columns]({{< relref "/docs/shortcodes/columns" >}})
-- [Expand]({{< relref "/docs/shortcodes/expand" >}})
-- [Hints]({{< relref "/docs/shortcodes/hints" >}})
-- [Katex]({{< relref "/docs/shortcodes/katex" >}})
-- [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
-- [Tabs]({{< relref "/docs/shortcodes/tabs" >}})  
-- [**Blog**]({{< relref "/posts" >}})
+**Overview**
+
+- [Dependencies]({{< relref "/docs/setup" >}})
+  - [Vale]({{< relref "/docs/setup/sync" >}})
+  - [Remark]({{< relref "/docs/setup/manual" >}})
+
+- [Setup]({{< relref "/docs/setup" >}})
+  - [Sync]({{< relref "/docs/setup/sync" >}})
+  - [Manual]({{< relref "/docs/setup/manual" >}})
+
+- [Extensions]({{< relref "/docs/example/table-of-contents" >}})
+  - [Code]({{< relref "/docs/example/table-of-contents/with-toc" >}})
+  - [Git]({{< relref "/docs/example/table-of-contents/without-toc" >}})

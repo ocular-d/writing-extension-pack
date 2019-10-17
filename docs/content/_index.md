@@ -3,9 +3,13 @@ title: Introduction
 type: docs
 ---
 
-# About
+# Getting Started
 
-(Technical) Writing with [Visiual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
+Extension Pack for (technical) writing with [Visiual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
+
+## Visual Studio Code in Action
+
+![Example image](vscode-docs.png)
 
 {{< columns >}}
 ## Astris ipse furtiva
