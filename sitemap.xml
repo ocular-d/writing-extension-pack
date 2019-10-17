@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/setup/</loc>
+  </url>
+  
+  <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/with-toc/</loc>
     <lastmod>2019-10-15T15:16:33+02:00</lastmod>
   </url>
@@ -70,6 +74,16 @@
   <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/example/table-of-contents/</loc>
     <lastmod>2019-10-15T15:16:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/setup/manual/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/setup/sync/</loc>
     <priority>0</priority>
   </url>
   
