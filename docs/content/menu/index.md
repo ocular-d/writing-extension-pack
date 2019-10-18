@@ -4,7 +4,7 @@ headless: true
 
 **Overview**
 
-- [Dependencies]({{< relref "/docs/setup" >}})
+- [Dependencies]({{< relref "/docs/dependencies" >}})
 
 - [Setup]({{< relref "/docs/setup" >}})
 
