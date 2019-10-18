@@ -8,4 +8,4 @@ headless: true
 
 - [Setup]({{< relref "/docs/setup" >}})
 
-- [Extensions]({{< relref "/docs/example/table-of-contents" >}})
+- [Extensions]({{< relref "/docs/extensions" >}})

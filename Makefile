@@ -32,6 +32,8 @@ init: ## Initialize project
 	@git submodule init
 	@echo "Updating git submodule"
 	@git submodule update
+	@echo "Adding gh-pages worktree"
+	@git worktree add -B gh-pages docs/public/ origin/gh-pages
 
 .PHONY: version-bump
 version-bump: ## Update version
