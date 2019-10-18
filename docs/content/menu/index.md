@@ -9,3 +9,5 @@ headless: true
 - [Setup]({{< relref "/docs/setup" >}})
 
 - [Extensions]({{< relref "/docs/extensions" >}})
+
+- [Contributing]({{< relref "/docs/contributing" >}})
