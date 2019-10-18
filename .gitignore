@@ -18,3 +18,4 @@ parts/
 dist/
 var/
 docs/public/
+.git-bak/
