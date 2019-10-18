@@ -8,6 +8,9 @@ GREEN=`tput setaf 2`
 RESET=`tput sgr0`
 YELLOW=`tput setaf 3`
 
+# Vars
+#VERSION=`awk -F\" '/"version":/ {print $4}' package.json`
+VERSION := $(shell grep 'version' package.json | cut -d '"' -f4 | tr -d '[[:space:]]')
 # Add the following 'help' target to your Makefile
 # And add help text after each target name starting with '\#\#'
 .PHONY: help
@@ -38,3 +41,7 @@ init: ## Initialize project
 .PHONY: version-bump
 version-bump: ## Update version
 	npx version-bump-prompt
+
+.PHONY: git-tag
+git-tag: ## Git tag the commit with version number
+	@git tag -a $(VERSION) -m "Release" || true
