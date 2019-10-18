@@ -84,6 +84,11 @@
   </url>
   
   <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/extensions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/setup/manual/</loc>
     <priority>0</priority>
   </url>

@@ -114,6 +114,15 @@ Remark  remark-cli remark-preset-lint-recommended remark-preset-lint-consistent 
     
     <item>
       <title></title>
+      <link>http://ocular-d.github.io/writing-extension-pack/docs/extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ocular-d.github.io/writing-extension-pack/docs/extensions/</guid>
+      <description> Included Extensions Code  Polacode Bracket Pair Colorizer 2 Code Spell Checker Highlight Matching Tag Indent Rainbow  Git  GitLens  Markdown  Markdown Emoji Markdown TOC Remark Remark Lint  Writing  Word Count Highlight Trailing White Spaces Read Time Vale  OpenAPI  OpenAPI (Swagger) Editor  Icons  Material Icon Theme  Themes  Github Light Theme Night Owl  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://ocular-d.github.io/writing-extension-pack/docs/setup/manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
