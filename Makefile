@@ -23,8 +23,15 @@ publish: ## Publish package to Marketplace
 	vsce publish
 
 .PHONY: serve-docs
-serve-docs:
-	hugo server -ws docs/ ## Start docs in "server" mode
+serve-docs: ## Start docs in "server" mode
+	hugo server -ws docs/
+
+.PHONY: init
+init: ## Initialize project
+	@echo "Initialize docs submodule for theme"
+	@git submodule init
+	@echo "Updating git submodule"
+	@git submodule update
 
 .PHONY: version-bump
 version-bump: ## Update version
