@@ -1,5 +1,10 @@
 # How to contribute
 
+## Dependencies
+
+- [Hugo](https://gohugo.io/ "Link to website of Hugo") for documentation, please make
+sure to install the "extended" version.
+
 ## Cloning
 
 {{< tabs "uniqueid" >}}
@@ -24,5 +29,7 @@ git clone git@github.com:ocular-d/writing-extension-pack.git
 ## Initialize
 
 ```bash
-make initialize
+make init
 ```
+
+This command will do the initial setup, like initializing submodules and such.  
