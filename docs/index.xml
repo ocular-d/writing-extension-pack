@@ -24,7 +24,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ocular-d.github.io/writing-extension-pack/docs/contributing/</guid>
-      <description> How to contribute Cloning HTTPS  Clone with HTTPS git clone https://github.com/ocular-d/writing-extension-pack  SSH  Clone with SSH git clone git@github.com:ocular-d/writing-extension-pack.git   Initialize make initialize</description>
+      <description>How to contribute Dependencies  Hugo for documentation, please make sure to install the &amp;ldquo;extended&amp;rdquo; version.  Cloning HTTPS  Clone with HTTPS git clone https://github.com/ocular-d/writing-extension-pack  SSH  Clone with SSH git clone git@github.com:ocular-d/writing-extension-pack.git   Initialize make init This command will do the initial setup, like initializing submodules and such.</description>
     </item>
     
     <item>
