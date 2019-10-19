@@ -46,10 +46,9 @@ pygmentsCodeFences = true
   # - In blog posts
   BookDateFormat = 'Jan 2, 2006'
 
-  # (Optional, default true) Enables search function with lunr.js, 
+  # (Optional, default true) Enables search function with lunr.js,
   # Index is built on fly, therefore it might slowdown your website.
   BookSearch = true
 
   # (Optional, Experimental) Set to hide nested sections or pages at that level. Works only with file-tree menu mode
   bookCollapseSection = true
-
