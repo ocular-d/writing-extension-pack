@@ -32,4 +32,4 @@ git clone git@github.com:ocular-d/writing-extension-pack.git
 make init
 ```
 
-This command will do the initial setup, like initializing submodules and such.  
+This command will do the initial setup, like initializing submodules and such.
