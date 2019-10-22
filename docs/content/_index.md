@@ -29,9 +29,10 @@ modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 
 ## Setup
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+Use [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync "Link to settings sync on marketplace") to
+get the setup and configuration automatically or copy the *gist* examples from hand.
+
+Whichever you prefer!
 {{< /columns >}}
 
 
