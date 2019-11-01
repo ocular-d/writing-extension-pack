@@ -4,9 +4,15 @@ bookFlatSection: true
 title: "Setup"
 ---
 
-# Introduction
+# Setup
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+Add intro
+
+I :heart: writing:
+
+## Auto setup
+
+Here all info on how to use *gist sync* bla bla bla
 
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
 inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
@@ -20,12 +26,17 @@ solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
 - Velit posses summoque
 - De fumos illa foret
 
-## Est simul fameque tauri qua ad
+## Manual Setup
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
+Here all info on how to do the setup manually.
 
-## Me sol
+- Code block with bash script (add warning about using bash scripts :))
+- Gist with bash script
+- ...
+
+### Example Gist
+
+{{< gist spf13 7896402 >}}
 
 Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
 iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
@@ -59,13 +70,3 @@ omnes liquido creditis noctem.
     }
     var virusTweetSsl = nullGigo;
 
-## Trepident sitimque
-
-Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.
-
-Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
-oculis iussa est me ferro.
