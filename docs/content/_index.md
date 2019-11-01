@@ -1,5 +1,5 @@
 ---
-title: VS-Code Writing
+title: (Technical) Writing With VS-Code
 type: docs
 ---
 

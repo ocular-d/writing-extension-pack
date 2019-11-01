@@ -28,6 +28,8 @@ solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
 
 ## Manual Setup
 
+* Mention dependencies*
+
 Here all info on how to do the setup manually.
 
 - Code block with bash script (add warning about using bash scripts :))
