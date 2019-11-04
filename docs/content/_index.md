@@ -1,9 +1,19 @@
 ---
 title: (Technical) Writing With VS-Code
 type: docs
+bookToC: false
 ---
 
-# Getting Started
+# About
+
+We :heart: writing!
+
+Writing good and understandable documentation is as hard as writing good code.
+
+The aim of this project is to make it effortless to setup [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website") for (technical) writing by providing
+carefully tested extensions and settings.
+
+You can choose to install the [extension pack]((https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extions on VS-Code marketplace"), use the [script](https://gist.github.com/ocular-d/fbee902dc2bfbb77165e5067b18dcb1b "Link to gist with script") or copy only settings you want.
 
 (Technical) writing with [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
 
@@ -14,7 +24,6 @@ the configuration settings as a reference.
 
 {{< button href="https://github.com/ocular-d/writing-extension-pack" >}}GitHub{{< /button >}}
 
-## Visual Studio Code in Action
 
 ![Example image](vscode-docs.png)
 
@@ -34,13 +43,3 @@ get the setup and configuration automatically or copy the *gist* examples from h
 
 Whichever you prefer!
 {{< /columns >}}
-
-
-## About
-
-Writing good and understandable documentation is as hard as writing good code.
-
-The aim of this project is to make it effortless to setup [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website") for (technical) writing by providing
-carefully tested extensions and settings.
-
-You can choose to install the [extension pack]((https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extions on VS-Code marketplace"), use the [script](https://gist.github.com/ocular-d/fbee902dc2bfbb77165e5067b18dcb1b "Link to gist with script") or copy only settings you want.
