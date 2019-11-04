@@ -7,7 +7,7 @@ type: docs
 
 (Technical) writing with [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
 
-Download the extension pack from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extions on VS-Code marketplace") or use
+Download the extension pack from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extension on VS-Code marketplace") or use
 the configuration settings as a reference.
 
 {{< button href="https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack" >}}VisualStudio|Marketplace{{< /button >}}
@@ -21,9 +21,9 @@ the configuration settings as a reference.
 {{< columns >}}
 ## Extensions
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+*Batteries Included*
+
+From [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension") over [OpenAPI (Swagger) Support](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi "Link to OpenAPI extension") to [code screenshots](https://marketplace.visualstudio.com/items?itemName=pnp.polacode "Link to polacode extension") and many more.
 
 <--->
 
@@ -38,19 +38,9 @@ Whichever you prefer!
 
 ## About
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+Writing good and understandable documentation is as hard as writing good code.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
+The aim of this project is to make it effortless to setup [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website") for (technical) writing by providing
+carefully tested extensions and settings.
+
+You can choose to install the [extension pack]((https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extions on VS-Code marketplace"), use the [script](https://gist.github.com/ocular-d/fbee902dc2bfbb77165e5067b18dcb1b "Link to gist with script") or copy only settings you want.

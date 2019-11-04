@@ -8,7 +8,7 @@ title: "Setup"
 
 Add intro
 
-I :heart: writing:
+We :heart: writing:
 
 ## Auto setup
 
@@ -38,7 +38,7 @@ Here all info on how to do the setup manually.
 
 ### Example Gist
 
-{{< gist spf13 7896402 >}}
+{{< gist ocular-d fbee902dc2bfbb77165e5067b18dcb1b >}}
 
 Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
 iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
@@ -71,4 +71,3 @@ omnes liquido creditis noctem.
                 managementRosetta(webcamActivex), 740874);
     }
     var virusTweetSsl = nullGigo;
-
