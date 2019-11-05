@@ -33,3 +33,7 @@ make init
 ```
 
 This command will do the initial setup, like initializing submodules and such.
+
+## Todo
+
+- Add docs about how to make a release and needed tooling
