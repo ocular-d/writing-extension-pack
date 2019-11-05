@@ -1,5 +1,11 @@
 # Dependencies
 
+## Prerequisite
+
+- Add info about that it's needed to have VS-Code installed.
+
+Since the way of installing differs from OS to OS and personally taste, we will not cover that
+
 ## Vale
 
 [Vale](https://errata-ai.github.io/vale/ "Link to Vale website") is a free, open-source linter for prose built with speed and extensibility in mind.
