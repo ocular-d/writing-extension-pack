@@ -14,6 +14,10 @@ We :heart: writing:
 
 Here all info on how to use *gist sync* bla bla bla
 
+- Install the extenions-pack
+- Configure (donwload from public gist)
+- Add notes about ytother settings
+
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
 inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
 non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
@@ -28,7 +32,13 @@ solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
 
 ## Manual Setup
 
-* Mention dependencies*
+*Mention dependencies*
+
+- Install **sync** extension
+- Configure that one (notes above)
+
+
+For below, mention that, so yeah you can do that, but you really did not need to, the sync package is taking care of this.
 
 Here all info on how to do the setup manually.
 

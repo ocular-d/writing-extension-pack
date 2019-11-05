@@ -6,6 +6,8 @@
 
 Since the way of installing differs from OS to OS and personally taste, we will not cover that
 
+- Add note about font (hack) we use, make sure to add info on installing or/and switching to another font
+
 ## Vale
 
 [Vale](https://errata-ai.github.io/vale/ "Link to Vale website") is a free, open-source linter for prose built with speed and extensibility in mind.
