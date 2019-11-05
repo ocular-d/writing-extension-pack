@@ -10,13 +10,15 @@ Add intro
 
 We :heart: writing:
 
+Add a link to dependency page.
+
 ## Auto setup
 
 Here all info on how to use *gist sync* bla bla bla
 
 - Install the extenions-pack
 - Configure (donwload from public gist)
-- Add notes about ytother settings
+- Add notes about other settings
 
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
 inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
