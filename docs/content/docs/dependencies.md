@@ -2,14 +2,11 @@
 
 ## Prerequisite
 
-- Add info about that it's needed to have VS-Code installed.
-
-Since the way of installing differs from OS to OS and personally taste, we will not cover that
-
+To enjoy the best experience, please make sure that you have [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website"), [Node.js](https://nodejs.org/en/ "Link to node.js website") and all other dependencies installed.
 
 ## Font
 
-*Hack* is the default font.
+[Hack](https://github.com/source-foundry/Hack "Link to Hack on GitHub") is the default font.
 
 {{< tabs "ont-install" >}}
 {{< tab "Ubuntu" >}}

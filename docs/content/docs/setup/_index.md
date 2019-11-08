@@ -48,6 +48,10 @@ Here all info on how to do the setup manually.
 - Gist with bash script
 - ...
 
+## Remark
+
+{{< gist ocular-d d3f8e54fc5afc73f8c93cd7d6f8b7afc >}}
+
 ### Example Gist
 
 {{< gist ocular-d fbee902dc2bfbb77165e5067b18dcb1b >}}
