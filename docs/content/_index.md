@@ -32,7 +32,7 @@ the configuration settings as a reference.
 
 *Batteries Included*
 
-From [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension") over [OpenAPI (Swagger) Support](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi "Link to OpenAPI extension") to [code screenshots](https://marketplace.visualstudio.com/items?itemName=pnp.polacode "Link to polacode extension") and many more.
+From [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension") over [OpenAPI (Swagger) Support](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi "Link to OpenAPI extension") to [code screenshots](https://marketplace.visualstudio.com/items?itemName=pnp.polacode "Link to polacode extension") and more.
 
 <--->
 
