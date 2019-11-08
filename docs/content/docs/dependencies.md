@@ -6,20 +6,31 @@
 
 Since the way of installing differs from OS to OS and personally taste, we will not cover that
 
-- Add note about font (hack) we use, make sure to add info on installing or/and switching to another font
 
-Ubuntu:
+## Font
 
-```shell
+*Hack* is the default font.
+
+{{< tabs "ont-install" >}}
+{{< tab "Ubuntu" >}}
+# Ubuntu
+
+```bash
 sudo apt install fonts-hack
 ```
+{{< /tab >}}
+{{< tab "macOS" >}}
 
-macOS:
+# macOS
 
 ```shell
 brew tap homebrew/cask-fonts # Only once
 brew cask install font-hack
 ```
+{{< /tab >}}
+{{< /tabs >}}
+
+
 
 ## Vale
 
