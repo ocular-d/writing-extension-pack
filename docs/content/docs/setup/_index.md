@@ -8,9 +8,13 @@ title: "Setup"
 
 Add intro
 
-We :heart: writing:
+We :heart: writing!
 
-Add a link to dependency page.
+{{< hint info >}}
+**Dependencies**
+
+Please make sure to install all [dependencies]({{< ref "extensions.md" >}}"Link to dependency docs")!
+{{< /hint >}}
 
 ## Auto setup
 

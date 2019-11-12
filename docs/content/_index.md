@@ -34,6 +34,8 @@ the configuration settings as a reference.
 
 From [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension") over [OpenAPI (Swagger) Support](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi "Link to OpenAPI extension") to [code screenshots](https://marketplace.visualstudio.com/items?itemName=pnp.polacode "Link to polacode extension") and more.
 
+Read the [documentation about all included extensions]({{< ref "extensions.md" >}}"Link to extension docs").
+
 <--->
 
 ## Setup
