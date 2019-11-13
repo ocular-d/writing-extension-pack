@@ -9,7 +9,7 @@
   
   <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/setup/</loc>
-    <lastmod>2019-11-12T12:45:53+01:00</lastmod>
+    <lastmod>2019-11-13T11:19:27+01:00</lastmod>
   </url>
   
   <url>
@@ -49,6 +49,11 @@
   
   <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/docs/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ocular-d.github.io/writing-extension-pack/docs/configuration/</loc>
     <priority>0</priority>
   </url>
   
@@ -150,7 +155,7 @@
   
   <url>
     <loc>http://ocular-d.github.io/writing-extension-pack/</loc>
-    <lastmod>2019-11-12T12:45:53+01:00</lastmod>
+    <lastmod>2019-11-13T11:19:27+01:00</lastmod>
   </url>
   
   <url>

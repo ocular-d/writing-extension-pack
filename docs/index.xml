@@ -20,6 +20,17 @@
     
     <item>
       <title></title>
+      <link>http://ocular-d.github.io/writing-extension-pack/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ocular-d.github.io/writing-extension-pack/docs/configuration/</guid>
+      <description>Configuration Key Point
+Example configurations
+ Remark  Vale TBC</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://ocular-d.github.io/writing-extension-pack/docs/contributing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -34,10 +45,10 @@ Todo  Add docs about how to make a release and needed tooling  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ocular-d.github.io/writing-extension-pack/docs/dependencies/</guid>
-      <description> Dependencies Prerequisite To enjoy the best experience, please make sure that you have Visual Studio Code, Node.js and all other dependencies installed.
+      <description>Dependencies Prerequisite To enjoy the best experience, please make sure that you have Visual Studio Code, Node.js and all other dependencies installed.
 Font Hack is the default font.
-Ubuntu  Ubuntu sudo apt install fonts-hack  macOS  macOS brew tap homebrew/cask-fonts # Only once brew cask install font-hack   Vale Vale is a free, open-source linter for prose built with speed and extensibility in mind.
-Remark  remark-cli remark-preset-lint-recommended remark-preset-lint-consistent remark-validate-links remark-preset-lint-markdown-style-guide  </description>
+Ubuntu  Ubuntu sudo apt install fonts-hack  macOS  macOS Assumed you&amp;rsquo;re using Homebrew
+brew tap homebrew/cask-fonts # Only once brew cask install font-hack   Vale Vale is a free, open-source linter for prose built with speed and extensibility in mind.</description>
     </item>
     
     <item>
