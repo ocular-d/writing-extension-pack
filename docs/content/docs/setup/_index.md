@@ -40,11 +40,10 @@ solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
 
 *Mention dependencies*
 
-- Install **sync** extension
+*Stress how that one is different and that we're not installing the sync package*
+
+
 - Configure that one (notes above)
-
-
-For below, mention that, so yeah you can do that, but you really did not need to, the sync package is taking care of this.
 
 Here all info on how to do the setup manually.
 
