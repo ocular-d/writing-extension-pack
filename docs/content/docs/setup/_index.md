@@ -10,7 +10,7 @@ Add intro
 
 We :heart: writing!
 
-{{< hint info >}}
+{{< hint warning >}}
 **Dependencies**
 
 Please make sure to install all [dependencies]({{< ref "extensions.md" >}}"Link to dependency docs")!
@@ -21,7 +21,7 @@ Please make sure to install all [dependencies]({{< ref "extensions.md" >}}"Link 
 Here all info on how to use *gist sync* bla bla bla
 
 - Install the extenions-pack
-- Configure (donwload from public gist)
+- Configure (download from public gist)
 - Add notes about other settings
 
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
@@ -51,10 +51,6 @@ Here all info on how to do the setup manually.
 - Code block with bash script (add warning about using bash scripts :))
 - Gist with bash script
 - ...
-
-## Remark
-
-{{< gist ocular-d d3f8e54fc5afc73f8c93cd7d6f8b7afc >}}
 
 ### Example Gist
 

@@ -20,6 +20,8 @@ sudo apt install fonts-hack
 
 # macOS
 
+Assumed you're using [Homebrew](https://brew.sh/ "link to website of homebrew")
+
 ```shell
 brew tap homebrew/cask-fonts # Only once
 brew cask install font-hack
@@ -40,3 +42,5 @@ brew cask install font-hack
 - [remark-preset-lint-consistent](https://www.npmjs.com/package/remark-preset-lint-consistent "Link to remark-preset-lint-consistent" )
 - [remark-validate-links](https://github.com/remarkjs/remark-validate-links "Link to remark-validate-links")
 - [remark-preset-lint-markdown-style-guide](https://www.npmjs.com/package/remark-preset-lint-markdown-style-guide "Link to remark-preset-lint-markdown-style-guide")
+
+{{< gist ocular-d fbee902dc2bfbb77165e5067b18dcb1b >}}

@@ -8,14 +8,14 @@ bookToC: false
 
 We :heart: writing!
 
+(Technical) writing with [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
+
 Writing good and understandable documentation is as hard as writing good code.
 
 The aim of this project is to make it effortless to setup [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website") for (technical) writing by providing
 carefully tested extensions and settings.
 
-You can choose to install the [extension pack]((https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extions on VS-Code marketplace"), use the [script](https://gist.github.com/ocular-d/fbee902dc2bfbb77165e5067b18dcb1b "Link to gist with script") or copy only settings you want.
-
-(Technical) writing with [Visual Studio Code](https://code.visualstudio.com "Link to VS-Code website").
+You can choose to install the [extension pack]((https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to extensions on VS-Code marketplace"), use the [script](https://gist.github.com/ocular-d/fbee902dc2bfbb77165e5067b18dcb1b "Link to gist with script") or copy the settings you want.
 
 Download the extension pack from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack "Link to Extension on VS-Code marketplace") or use
 the configuration settings as a reference.
