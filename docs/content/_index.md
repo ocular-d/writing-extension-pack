@@ -25,7 +25,7 @@ the configuration settings as a reference.
 {{< button href="https://github.com/ocular-d/writing-extension-pack" >}}GitHub{{< /button >}}
 
 
-![Example image](vscode-docs.png)
+![Example image](vs-code-writing.png)
 
 {{< columns >}}
 ## Extensions
