@@ -4,6 +4,7 @@ baseURL = 'http://ocular-d.github.io/writing-extension-pack/'
 title = 'Writing'
 theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
+canonifyURLs = true
 # themesDir = '../..'
 
 # Book configuration

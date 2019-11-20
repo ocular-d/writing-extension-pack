@@ -21,7 +21,13 @@ Please make sure to install all [dependencies]({{< ref "extensions.md" >}}"Link 
 Here all info on how to use *gist sync* bla bla bla
 
 - Install the extenions-pack
-- Configure (download from public gist)
+
+### Configuration
+
+![Image of settings sync config](/settings-sync.png)
+
+![Example image](vs-code-writing.png)
+
 - Add notes about other settings
 
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
