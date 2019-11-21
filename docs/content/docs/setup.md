@@ -18,29 +18,22 @@ Please make sure to install all [dependencies]({{< ref "extensions.md" >}}"Link 
 
 ## Auto setup
 
-Here all info on how to use *gist sync* bla bla bla
+To install an extension, click the Install button.
+Once the installation is complete, the Install button will change to the Manage gear button.
 
-- Install the extenions-pack
+Or via the `CLI`
+
+```shell
+code --install-extension ocular-d.writing-extension-pack
+```
 
 ### Configuration
 
 ![Image of settings sync config](/settings-sync.png)
 
-![Example image](vs-code-writing.png)
-
 - Add notes about other settings
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
 
 ## Manual Setup
 
