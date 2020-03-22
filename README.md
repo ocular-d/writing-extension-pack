@@ -71,6 +71,10 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - [Remark](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-remark "Link to remark extension")
 - [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint "Link to remark lint extension")
 
+### reStructuredText
+
+- [reStructuredText](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext "Link to reST extension")
+
 ### Writing
 
 - [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension")
