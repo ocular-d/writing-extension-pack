@@ -40,7 +40,8 @@
         "jhartell.vscode-line-endings",
         "42Crunch.vscode-openapi",
         "Shan.code-settings-sync",
-        "sdras.night-owl"
+        "sdras.night-owl",
+        "lextudio.restructuredtext"
     ],
     "repository": {
         "type": "git",
