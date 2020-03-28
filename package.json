@@ -3,8 +3,8 @@
     "displayName": "Writing Extension Pack",
     "description": "A extension pack for creating stunning (API) documentation",
     "scripts": {
-      "docs:dev": "vuepress dev docs",
-      "docs:build": "vuepress build docs"
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
     },
     "publisher": "ocular-d",
     "license": "GPL-2.0-only",
@@ -49,6 +49,6 @@
     },
     "icon": "icon.png",
     "devDependencies": {
-        "vuepress": "^1.3.0"
+        "vuepress": "^1.4.0"
     }
 }
