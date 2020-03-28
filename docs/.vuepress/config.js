@@ -1,9 +1,27 @@
 module.exports = {
-  title: 'Hello VuePress',
-  description: 'Just playing around',
+  title: '(Technical) Writing',
+  description: 'Visual Studio Code Extension Pack For Technical Writing',
+  base: "/styleguide-editorial/",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.png' }]
+  ],
+  nav: [
+    { text: 'GitHub', link: 'https://github.com/ocular-d/writing-extension-pack' }
+  ],
   themeConfig: {
-    nav: [
-      { text: 'GitHub', link: 'https://github.com/ocular-d/writing-extension-pack' }
-    ]
+    lastUpdated: 'Last Updated',
+    logo: '/ocld-logo.png',
+    repo: 'ocular-d/styleguide-editorial',
+    docsDir: 'docs',
+    editLinks: false,
+    editLinkText: 'Help us improve this page!',
+    sidebar: [{
+      title: 'Guide',
+      collapsable: false,
+      children: [
+        'dependencies'
+      ]
+    }
+  ]
   }
 }
