@@ -1,0 +1,11 @@
+extends: existence
+message: "Try to avoid using first-person plural like '%s'."
+link: https://ocular-d.github.io/styleguide-editorial/we.html
+level: warning
+ignorecase: true
+tokens:
+  - we
+  - we'(?:ve|re)
+  - ours?
+  - us
+  - let's

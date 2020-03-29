@@ -1,0 +1,8 @@
+extends: existence
+message: "Don't use '%s'."
+link: https://ocular-d.github.io/styleguide-editorial/pronouns-and-gender.html
+level: error
+ignorecase: true
+tokens:
+  - he/she
+  - s/he

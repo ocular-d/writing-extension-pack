@@ -12,6 +12,10 @@ The span elements can be used inline, meaning they can be used within a paragrap
 
 Creating paragraphs and new lines (or line breaks) are similar, but have subtle differences. A new paragraph element, `<p>...</p>`, is created any time there is a blank line between two lines of text. 
 
+So this is not cool. But this is a test.
+
+There is a lot of these.
+
 #### Headers
 ```md
 # An H1 Header
@@ -19,5 +23,3 @@ Creating paragraphs and new lines (or line breaks) are similar, but have subtle 
 ### An H3 Header
 #### An H4 Header
 ```
-
-
