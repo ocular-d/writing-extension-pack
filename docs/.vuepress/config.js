@@ -19,7 +19,9 @@ module.exports = {
       title: 'Guide',
       collapsable: false,
       children: [
-        'dependencies'
+        'dependencies',
+        'contribute',
+        'credits'
       ]
     }
   ]
