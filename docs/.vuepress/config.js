@@ -25,5 +25,6 @@ module.exports = {
       ]
     }
   ]
-  }
+  },
+  plugins: {'@vuepress/medium-zoom': true},
 }
