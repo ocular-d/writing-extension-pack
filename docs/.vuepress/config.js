@@ -20,6 +20,8 @@ module.exports = {
       collapsable: false,
       children: [
         'dependencies',
+        'extensions',
+        'install',
         'contribute',
         'credits'
       ]
