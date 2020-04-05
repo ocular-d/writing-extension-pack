@@ -15,7 +15,8 @@ module.exports = {
     docsDir: 'docs',
     editLinks: false,
     editLinkText: 'Help us improve this page!',
-    sidebar: [{
+    sidebar: [
+      {
       title: 'Guide',
       collapsable: false,
       children: [
@@ -25,7 +26,18 @@ module.exports = {
         'contribute',
         'credits'
       ]
-    }
+      },
+      {
+        title: 'Extensions',
+        collapsable: false,
+        children: [
+          'dependencies',
+          'extensions',
+          'install',
+          'contribute',
+          'credits'
+        ]
+      }
   ]
   },
   plugins: {'@vuepress/medium-zoom': true},
