@@ -1,5 +1,5 @@
 module.exports = {
-  title: '(Technical) Writing',
+  title: 'VS Code - (Technical) Writing Extension',
   description: 'Visual Studio Code Extension Pack For Technical Writing',
   base: "/",
   head: [
