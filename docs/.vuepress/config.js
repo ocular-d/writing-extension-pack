@@ -1,7 +1,7 @@
 module.exports = {
   title: '(Technical) Writing',
   description: 'Visual Studio Code Extension Pack For Technical Writing',
-  base: "/styleguide-editorial/",
+  base: "/",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
