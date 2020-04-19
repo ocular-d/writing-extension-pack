@@ -40,5 +40,10 @@ module.exports = {
       }
   ]
   },
-  plugins: {'@vuepress/medium-zoom': true},
+  plugins: {
+    '@vuepress/medium-zoom': true,
+    'vuepress-plugin-code-copy': true,
+    'vuepress-plugin-reading-time': true
+  }
+
 }
