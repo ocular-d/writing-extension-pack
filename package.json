@@ -59,7 +59,7 @@
         "remark-preset-lint-recommended": "^3.0.4",
         "remark-validate-links": "^10.0.0",
         "vsce": "^1.75.0",
-        "vuepress": "^1.4.0",
+        "vuepress": "^1.4.1",
         "vuepress-plugin-code-copy": "^1.0.6",
         "vuepress-plugin-reading-time": "^0.1.1"
     }

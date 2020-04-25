@@ -6,7 +6,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   nav: [
-    { text: 'GitHub', link: 'https://github.com/ocular-d/writing-extension-pack' }
+    { text: 'External', link: 'https://google.com' }
   ],
   themeConfig: {
     lastUpdated: 'Last Updated',
@@ -43,7 +43,9 @@ module.exports = {
   plugins: {
     '@vuepress/medium-zoom': true,
     'vuepress-plugin-code-copy': true,
-    'vuepress-plugin-reading-time': true
+    'vuepress-plugin-reading-time': true,
+    '@vuepress/back-to-top': true,
+    '@vuepress/nprogress': true
   }
 
 }

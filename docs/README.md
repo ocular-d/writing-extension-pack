@@ -1,10 +1,10 @@
 ---
-title: Blogging Like a Hacker
 meta:
   - name: description
     content: hello
   - name: keywords
     content: super duper SEO
+footer: Hey There!
 ---
 
 # About
