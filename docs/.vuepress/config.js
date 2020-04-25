@@ -12,6 +12,9 @@ module.exports = {
     docsDir: 'docs',
     editLinks: false,
     editLinkText: 'Help us improve this page!',
+    nav: [
+      { text: 'VS Code Marketplace', link: 'https://marketplace.visualstudio.com/items?itemName=ocular-d.writing-extension-pack' }
+    ],
     sidebar: [
       {
       title: 'Getting Started',
