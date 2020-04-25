@@ -1,12 +1,9 @@
 module.exports = {
-  title: 'VS Code - (Technical) Writing Extension',
+  title: '(Technical) Writing Extension',
   description: 'Visual Studio Code Extension Pack For Technical Writing',
   base: "/",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
-  ],
-  nav: [
-    { text: 'External', link: 'https://google.com' }
   ],
   themeConfig: {
     lastUpdated: 'Last Updated',
@@ -17,12 +14,11 @@ module.exports = {
     editLinkText: 'Help us improve this page!',
     sidebar: [
       {
-      title: 'Guide',
+      title: 'Getting Started',
       collapsable: false,
       children: [
-        'dependencies',
-        'extensions',
         'install',
+        'extensions',
         'contribute',
         'credits'
       ]

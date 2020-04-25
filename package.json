@@ -3,7 +3,7 @@
     "displayName": "Writing Extension Pack",
     "description": "A extension pack for creating stunning (API) documentation",
     "scripts": {
-        "docs:dev": "vuepress dev docs",
+        "docs:dev": "vuepress dev docs --no-cache",
         "docs:build": "vuepress build docs"
     },
     "publisher": "ocld",

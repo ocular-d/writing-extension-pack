@@ -15,4 +15,4 @@ REMOVE HEADING, ADD BETTER START
 
 ![Picture of VS Code with docs linting ](./assets/extension-screen.png)
 
-HERE SOME LINES WHY BLA BLA
+HERE SOME LINES WHY BLA BLA Yeah

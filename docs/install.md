@@ -1,5 +1,6 @@
 ---
-title: My great post
+title: Install
+description: How to install the extension
 ---
 
 This post is a {{ $page.readingTime.text }}
