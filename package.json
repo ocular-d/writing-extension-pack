@@ -43,6 +43,10 @@
         "sdras.night-owl",
         "lextudio.restructuredtext"
     ],
+    "dependencies": {
+        "ocld-writing": "0.0.1",
+        "remark-preset-lint-ocular-d": "0.0.3"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/ocular-d/writing-extension-pack"
@@ -54,6 +58,7 @@
         "remark-preset-lint-markdown-style-guide": "^2.1.4",
         "remark-preset-lint-recommended": "^3.0.4",
         "remark-validate-links": "^10.0.0",
+        "vsce": "^1.75.0",
         "vuepress": "^1.4.0",
         "vuepress-plugin-code-copy": "^1.0.6",
         "vuepress-plugin-reading-time": "^0.1.1"

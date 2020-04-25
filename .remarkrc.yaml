@@ -1,12 +1,8 @@
 plugins:
-  preset-lint-consistent:
-  preset-lint-markdown-style-guide:
-  preset-lint-recommended:
-  validate-links:
-  lint-no-heading-punctuation:
+  remark-preset-lint-ocular-d:
   # Customized settings
   lint-list-item-indent: space
-  lint-maximum-line-length: 160
+  lint-maximum-line-length: 150
   lint-no-shell-dollars: true
   lint-no-duplicate-headings: false
   lint-maximum-heading-length: 80
