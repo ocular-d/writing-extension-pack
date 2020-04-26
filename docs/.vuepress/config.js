@@ -29,8 +29,7 @@ module.exports = {
         title: 'Extensions',
         collapsable: false,
         children: [
-          'contribute',
-          'credits'
+          'word-count'
         ]
       },
       {
