@@ -9,7 +9,7 @@ meta:
 
 # Word Count
 
-::: tip This topic will cover
+::: tip This topic will cover:
 A status bar contribution that reports out the number of works in a Markdown document as you interact with it.
 
 :bulb: {{ $page.readingTime.text }}
