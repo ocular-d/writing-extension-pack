@@ -1,6 +1,10 @@
 ---
 title: Install
-description: How to install the extension
+meta:
+  - name: description
+    content: How to install ocular-d.writing-extension-pack
+  - name: keywords
+    content: install extension vs-code ocular-d docs writing
 ---
 
 ::: tip Key Point
