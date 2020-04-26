@@ -29,7 +29,8 @@ module.exports = {
         title: 'Extensions',
         collapsable: false,
         children: [
-          'word-count'
+          'word-count',
+          'read-time'
         ]
       },
       {

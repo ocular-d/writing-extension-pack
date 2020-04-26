@@ -7,6 +7,8 @@ meta:
     content: word-count extension vs-code ocular-d docs writing
 ---
 
+# Word Count
+
 ::: tip Key Point
 :bulb: A status bar contribution that reports out the number of works in a Markdown document as you interact with it.
 
