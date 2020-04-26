@@ -2,12 +2,18 @@ module.exports = {
   title: '(Technical) Writing Extension',
   description: 'Visual Studio Code Extension Pack For Technical Writing',
   base: "/",
+  markdown: {
+    toc: {
+      includeLevel: [2]
+    }
+  },
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   themeConfig: {
     lastUpdated: 'Last Updated',
     logo: '/ocld-logo.png',
+    footer: 'Awesome Tech',
     repo: 'ocular-d/styleguide-editorial',
     docsDir: 'docs',
     editLinks: false,
@@ -30,7 +36,8 @@ module.exports = {
         collapsable: false,
         children: [
           'word-count',
-          'read-time'
+          'read-time',
+          'elist'
         ]
       },
       {
