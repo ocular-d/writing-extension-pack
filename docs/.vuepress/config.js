@@ -20,19 +20,23 @@ module.exports = {
       title: 'Getting Started',
       collapsable: false,
       children: [
+        'dependencies',
         'install',
-        'extensions',
-        'contribute',
-        'credits'
+        'extensions'
       ]
       },
       {
         title: 'Extensions',
         collapsable: false,
         children: [
-          'dependencies',
-          'extensions',
-          'install',
+          'contribute',
+          'credits'
+        ]
+      },
+      {
+        title: 'About',
+        collapsable: false,
+        children: [
           'contribute',
           'credits'
         ]
