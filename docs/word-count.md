@@ -9,10 +9,10 @@ meta:
 
 # Word Count
 
-::: tip Key Point
-:bulb: A status bar contribution that reports out the number of works in a Markdown document as you interact with it.
+::: tip This topic will cover
+A status bar contribution that reports out the number of works in a Markdown document as you interact with it.
 
-{{ $page.readingTime.text }}
+:bulb: {{ $page.readingTime.text }}
 :::
 
 ---
