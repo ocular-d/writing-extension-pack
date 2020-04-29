@@ -67,5 +67,5 @@
         "hooks": {
           "pre-commit": "find docs -name \\*.md -exec npx markdown-link-check -c .mlc_config.json {} \\;"
         }
-      }
+    }
 }
