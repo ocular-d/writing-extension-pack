@@ -43,7 +43,8 @@
         "42Crunch.vscode-openapi",
         "Shan.code-settings-sync",
         "sdras.night-owl",
-        "lextudio.restructuredtext"
+        "lextudio.restructuredtext",
+        "stoplight.spectral"
     ],
     "dependencies": {
         "ocld-writing": "0.0.1",
