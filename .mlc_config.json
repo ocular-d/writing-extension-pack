@@ -1,0 +1,7 @@
+{
+    "ignorePatterns": [
+        { "pattern": "^https://heise.de" },
+        { "pattern": "^https://sven.th" }
+    ]
+
+}
