@@ -30,3 +30,19 @@ paste the following command, and select enter.
 ```shell
 ext install ocular-d.writing-extension-pack
 ```
+
+## Configuration
+
+### Remark
+
+```yml
+plugins:
+  remark-preset-lint-ocular-d:
+  # Customized settings
+  lint-list-item-indent: space
+  lint-maximum-line-length: 150
+  lint-no-shell-dollars: true
+  lint-no-duplicate-headings: false
+  lint-maximum-heading-length: 80
+  lint-heading-style: false
+  ```
