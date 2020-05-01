@@ -8,9 +8,9 @@ meta:
 ---
 
 ::: tip Key Point
-:bulb: How to install this extension.
+How to install and configure this extension.
 
-{{ $page.readingTime.text }}
+:bulb: {{ $page.readingTime.text }}
 :::
 
 ---
@@ -35,6 +35,8 @@ ext install ocular-d.writing-extension-pack
 
 ### Remark
 
+Save the configuration example seen below as `.remarkrc.yaml` in the */root* of your repository.
+
 ```yml
 plugins:
   remark-preset-lint-ocular-d:
@@ -46,3 +48,5 @@ plugins:
   lint-maximum-heading-length: 80
   lint-heading-style: false
   ```
+
+For more detailed information, please check [remark-preset-lint-ocular-d](https://github.com/ocular-d/remark-preset-lint-ocular-d "Link to ocld-remark-preset on GitHub").
