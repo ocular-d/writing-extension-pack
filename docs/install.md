@@ -50,3 +50,29 @@ plugins:
   ```
 
 For more detailed information, please check [remark-preset-lint-ocular-d](https://github.com/ocular-d/remark-preset-lint-ocular-d "Link to ocld-remark-preset on GitHub").
+
+### Vale
+
+The core component of Vale's extension system are collections of writing guidelines called [styles](https://errata-ai.gitbook.io/vale/getting-started/styles "Link to Vale docs about styles").
+
+These guidelines are expressed through rules, which are YAML files enforcing a particular writing construct—e.g., ensuring a certain readability level, sentence length, or heading style.
+
+#### Example Style
+
+:exclamation: ocld requires Vale >= **1.7.0**. :exclamation:
+
+Download the [latest ocld release](https://github.com/ocular-d/ocld/releases "Link to GitHub release page of ocld"),
+copy the "ocular-d" directory to your `StylesPath`, and include it in your configuration file:
+
+```ini
+# This goes in a file named either `.vale.ini` or `_vale.ini`.
+StylesPath = path/to/some/directory
+MinAlertLevel = warning # suggestion, warning or error
+
+# Only Markdown and .txt files; change to whatever you're using.
+[*.{md,txt}]
+# List of styles to load.
+BasedOnStyles = ocular-d
+```
+
+You can find more examples and styles in the [Vale collection library](https://github.com/errata-ai/styles "Link to style collection"). 
