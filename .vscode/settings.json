@@ -3,10 +3,12 @@
         "changelog",
         "git",
         "hub",
+        "ocld",
         "onna",
         "polacode",
         "pronovix",
         "readme",
+        "remarkrc",
         "uniqueid",
         "validate"
     ]

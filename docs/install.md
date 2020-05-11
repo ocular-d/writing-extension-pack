@@ -75,4 +75,4 @@ MinAlertLevel = warning # suggestion, warning or error
 BasedOnStyles = ocular-d
 ```
 
-You can find more examples and styles in the [Vale collection library](https://github.com/errata-ai/styles "Link to style collection"). 
+You can find more examples and styles in the [Vale collection library](https://github.com/errata-ai/styles "Link to style collection").
