@@ -41,7 +41,6 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 
 ## Included Extensions
 
-
 - ocular-d.vuepress-snippets
 - ocular-d.writing
 - ybaumes.highlight-trailing-white-spaces
@@ -52,6 +51,8 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - tlahmann.alex-linter
 
 ## Settings
+
+The example below shows VS Code configured to use `vale cli` if you use `vale server` you need to change it ($show_example)
 
 `settings.json`
 
