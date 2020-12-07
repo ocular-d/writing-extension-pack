@@ -6,7 +6,7 @@
     "license": "GPL-2.0-only",
     "version": "1.2.0",
     "engines": {
-        "vscode": "^1.37.0"
+        "vscode": "^1.51.0"
     },
     "keywords": [
         "writing",
@@ -17,26 +17,12 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "pnp.polacode",
-        "bierner.markdown-emoji",
-        "AlanWalk.markdown-toc",
-        "streetsidesoftware.code-spell-checker",
-        "ms-vscode.wordcount",
-        "Coenraads.bracket-pair-colorizer-2",
+        "ocular-d.vuepress-snippets",
+        "ocular-d.writing",
         "ybaumes.highlight-trailing-white-spaces",
-        "mrmlnc.vscode-remark",
-        "johnpapa.read-time",
-        "vincaslt.highlight-matching-tag",
-        "pkief.material-icon-theme",
-        "Hyzeta.vscode-theme-github-light",
-        "eamodio.gitlens",
-        "drewbourne.vscode-remark-lint",
         "oderwat.indent-rainbow",
-        "testthedocs.vale",
-        "jhartell.vscode-line-endings",
-        "42Crunch.vscode-openapi",
-        "Shan.code-settings-sync",
-        "sdras.night-owl"
+        "CoenraadS.bracket-pair-colorizer-2",
+        "vale.vale-vscode"
     ],
     "repository": {
         "type": "git",
