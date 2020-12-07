@@ -85,6 +85,23 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync "Link to settings sync extension")
 
+
+## Settings
+
+`settings.json`
+
+```json
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "vale.core.useCLI": true,
+    "vale.server.provideFixes": false,
+    "settingsSync.ignoredExtensions": [
+    
+    ]
+}
+```
+
 ## Contributing
 
 Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution.
@@ -96,3 +113,5 @@ Distributed under the [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.
 ## Credits
 
 - [Pronovix](https://pronovix.com/ "Link to Pronovix website")
+
+So this is bad.
