@@ -1,0 +1,9 @@
+---
+extends: existence
+message: "Don't start a sentence with 'so'"
+ignorecase: true
+level: error
+#raw:
+#  - '(?:[;-]\s)so[\s,]|So[\s,]'
+tokens:
+  - ^So
