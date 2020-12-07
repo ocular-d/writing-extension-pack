@@ -22,7 +22,9 @@
         "ybaumes.highlight-trailing-white-spaces",
         "oderwat.indent-rainbow",
         "CoenraadS.bracket-pair-colorizer-2",
-        "vale.vale-vscode"
+        "vale.vale-vscode",
+        "bierner.markdown-emoji",
+        "tlahmann.alex-linter"
     ],
     "repository": {
         "type": "git",
