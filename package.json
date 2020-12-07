@@ -24,7 +24,8 @@
         "CoenraadS.bracket-pair-colorizer-2",
         "vale.vale-vscode",
         "bierner.markdown-emoji",
-        "tlahmann.alex-linter"
+        "tlahmann.alex-linter",
+        "jemcclin.readabilitycheck"
     ],
     "repository": {
         "type": "git",

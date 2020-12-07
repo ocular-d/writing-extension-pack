@@ -49,6 +49,7 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - vale.vale-vscode
 - bierner.markdown-emoji
 - tlahmann.alex-linter
+- jemcclin.readabilitycheck
 
 ## Settings
 
