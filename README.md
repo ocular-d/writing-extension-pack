@@ -50,6 +50,7 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - bierner.markdown-emoji
 - tlahmann.alex-linter
 - jemcclin.readabilitycheck
+- nhoizey.gremlins
 
 ## Settings
 

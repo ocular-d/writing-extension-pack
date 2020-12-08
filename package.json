@@ -25,7 +25,8 @@
         "vale.vale-vscode",
         "bierner.markdown-emoji",
         "tlahmann.alex-linter",
-        "jemcclin.readabilitycheck"
+        "jemcclin.readabilitycheck",
+        "nhoizey.gremlins"
     ],
     "repository": {
         "type": "git",
