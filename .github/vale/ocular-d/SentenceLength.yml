@@ -1,4 +1,3 @@
----
 message: "Write short sentences (less than 25 words)."
 extends: occurrence
 link: https://styleguide.mailchimp.com/writing-for-accessibility/#header-3-use-plain-language

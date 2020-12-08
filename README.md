@@ -41,6 +41,8 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 
 ## Included Extensions
 
+<!-- vale off -->
+
 - ocular-d.vuepress-snippets
 - ocular-d.writing
 - ybaumes.highlight-trailing-white-spaces
@@ -50,8 +52,9 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - bierner.markdown-emoji
 - tlahmann.alex-linter
 - jemcclin.readabilitycheck
-- nhoizey.gremlins
 - pnp.polacode
+
+<!-- vale on -->
 
 ## Settings
 

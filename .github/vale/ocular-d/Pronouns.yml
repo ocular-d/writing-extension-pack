@@ -1,4 +1,3 @@
----
 extends: existence
 message: 'Avoid using "%s"'
 link: https://ocular-d.github.io/styleguide-editorial/pronouns-and-gender.html

@@ -1,4 +1,3 @@
----
 extends: existence
 message: "Don't start a sentence with 'so'"
 ignorecase: true
