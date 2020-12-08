@@ -26,7 +26,8 @@
         "bierner.markdown-emoji",
         "tlahmann.alex-linter",
         "jemcclin.readabilitycheck",
-        "nhoizey.gremlins"
+        "nhoizey.gremlins",
+        "pnp.polacode"
     ],
     "repository": {
         "type": "git",

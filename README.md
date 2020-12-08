@@ -51,6 +51,7 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - tlahmann.alex-linter
 - jemcclin.readabilitycheck
 - nhoizey.gremlins
+- pnp.polacode
 
 ## Settings
 
