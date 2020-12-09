@@ -36,7 +36,8 @@
         "eamodio.gitlens",
         "redhat.vscode-yaml",
         "tht13.rst-vscode",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker"
     ],
     "repository": {
         "type": "git",
