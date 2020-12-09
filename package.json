@@ -32,7 +32,8 @@
         "silvenon.mdx",
         "vincaslt.highlight-matching-tag",
         "drewbourne.vscode-remark-lint",
-        "mrmlnc.vscode-remark"
+        "mrmlnc.vscode-remark",
+        "eamodio.gitlens"
     ],
     "repository": {
         "type": "git",
