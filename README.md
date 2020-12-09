@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ocular-d/writing-extension-pack">
-    <img src="https://raw.githubusercontent.com/ocular-d/writing-extension-pack/blob/2.0/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/ocular-d/writing-extension-pack/2.0/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">(Technical) Writing</h3>
