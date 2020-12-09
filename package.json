@@ -32,7 +32,8 @@
         "Atif.vs-redoc-viewer",
         "silvenon.mdx",
         "vincaslt.highlight-matching-tag",
-        "drewbourne.vscode-remark-lint"
+        "drewbourne.vscode-remark-lint",
+        "mrmlnc.vscode-remark"
     ],
     "repository": {
         "type": "git",
