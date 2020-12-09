@@ -26,7 +26,13 @@
         "bierner.markdown-emoji",
         "tlahmann.alex-linter",
         "jemcclin.readabilitycheck",
-        "pnp.polacode"
+        "pnp.polacode",
+        "ms-vscode.wordcount",
+        "johnpapa.read-time",
+        "Atif.vs-redoc-viewer",
+        "silvenon.mdx",
+        "vincaslt.highlight-matching-tag",
+        "drewbourne.vscode-remark-lint"
     ],
     "repository": {
         "type": "git",
