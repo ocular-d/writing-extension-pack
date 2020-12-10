@@ -49,13 +49,15 @@ This extension bundles the installation of linters and helper tools for markup a
 - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc "Link to MD toc extension")
 - [Remark](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-remark "Link to remark extension")
 - [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint "Link to remark lint extension")
-
+- bierner.markdown-emoji
 ### Writing
 
 - [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension")
 - [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces "Link to trailing spaces extension")
 - [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time "Link to read time extension")
-- [Vale](https://marketplace.visualstudio.com/items?itemName=testthedocs.vale "Link to Vale extension")
+- tlahmann.alex-linter
+- jemcclin.readabilitycheck
+- vale.vale-vscode
 
 ### Spellcheck
 
@@ -70,24 +72,8 @@ This extension bundles the installation of linters and helper tools for markup a
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 "Link to bracket colorizer extension")
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag "Link to matching tag extension")
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow "Link to indent extension")
-
-
-
-
-<!-- vale off -->
-
 - ocular-d.vuepress-snippets
 - ocular-d.writing
-- ybaumes.highlight-trailing-white-spaces
-- oderwat.indent-rainbow
-- CoenraadS.bracket-pair-colorizer-2
-- vale.vale-vscode
-- bierner.markdown-emoji
-- tlahmann.alex-linter
-- jemcclin.readabilitycheck
-- pnp.polacode
-
-<!-- vale on -->
 
 ## Settings
 
