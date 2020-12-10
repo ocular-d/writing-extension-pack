@@ -41,6 +41,17 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 
 This extension bundles the installation of linters and helper tools for markup and wording.
 
+## Prerequisite
+
+For a fully working setup please make sure to have all needed dependencies installed.
+
+Mention that one of these need Node
+
+- Vale
+- ocld-writing
+
+Explain these packages and explain that you don't need to install the latter you can also install the packs included separate.
+
 ## Included Extensions
 
 ### Markdown
