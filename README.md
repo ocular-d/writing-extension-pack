@@ -59,15 +59,15 @@ For a fully working setup please make sure to have all needed dependencies insta
 - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc "Link to MD toc extension")
 - [Remark](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-remark "Link to remark extension")
 - [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint "Link to remark lint extension")
-- bierner.markdown-emoji
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji "Link to extension")
 ### Writing
 
 - [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension")
 - [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces "Link to trailing spaces extension")
 - [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time "Link to read time extension")
-- tlahmann.alex-linter
-- jemcclin.readabilitycheck
-- vale.vale-vscode
+- [Alex-linter](https://marketplace.visualstudio.com/items?itemName=TLahmann.alex-linter&utm_source=VSCode.pro&utm_campaign=AhmadAwais "Link to extension")
+- [Readability check](https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck "Link to extension")
+- [Vale VS Code](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server "Link to extension")
 
 ### Spellcheck
 
@@ -82,8 +82,8 @@ For a fully working setup please make sure to have all needed dependencies insta
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 "Link to bracket colorizer extension")
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag "Link to matching tag extension")
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow "Link to indent extension")
-- ocular-d.vuepress-snippets
-- ocular-d.writing
+- [VuePress Snippets](https://marketplace.visualstudio.com/items?itemName=ocular-d.vuepress-snippets "Link to extension")
+- [ocular-d.writing](https://marketplace.visualstudio.com/items?itemName=ocular-d.writing "Link to extension")
 
 ## Settings
 
@@ -124,3 +124,4 @@ Distributed under the [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.
 ## Credits
 
 - [Pronovix](https://pronovix.com/ "Link to Pronovix website")
+- [Onna](https://onna.com "Link to website of Onna")
