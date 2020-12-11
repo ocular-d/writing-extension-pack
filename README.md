@@ -29,11 +29,13 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [About the Project](#about "TOC link about")
-- [Included Extensions](#included-extensions "TOC link included extensions")
-- [Contributing](#contributing "TOC link contributing")
-- [License](#license "TOC link license")
-- [Credits](#credits "TOC link credits")
+- [About the Project](#about "TOC link About")
+- [Prerequisite](#prerequisite "TOC link Prerequisite")
+- [Included Extensions](#included-extensions "TOC link Included Extensions")
+- [Settings](#settings "TOC link Settings")
+- [Contributing](#contributing "TOC link Contributing")
+- [License](#license "TOC link License")
+- [Credits](#credits "TOC link Credits")
 
 ## About
 
