@@ -45,13 +45,12 @@ This extension bundles the installation of linters and helper tools for markup a
 
 For a fully working setup please make sure to have all needed dependencies installed.
 
-Mention that one of these need Node
+- [Vale](https://docs.errata.ai/vale/about "Link to Vale website")
+- [ocld-writing](https://www.npmjs.com/package/ocld-writing "Link to package on NPM")
 
-- Vale
-- ocld-writing
-
-Explain these packages and explain that you don't need to install the latter you can also install the packs included separate.
-
+> Note
+> `ocld-writing` is a meta package, if you can also install all included packages separately if you prefer that.\
+> You can check the [README](https://github.com/ocular-d/ocld-writing/blob/master/README.md "Link to ocld-writing README on GitHub") on [GitHub](https://github.com/ocular-d/ocld-writing "Link to ocld-writing on GItHub") for the included packages.
 ## Included Extensions
 
 ### Markdown
@@ -87,6 +86,16 @@ Explain these packages and explain that you don't need to install the latter you
 - ocular-d.writing
 
 ## Settings
+
+To get the most out of this setup, please make sure to consult the documentation of the following projects.
+
+- [alex](https://github.com/get-alex/alex#configuration "Link to alex docs")
+- [markdown-link-check](https://github.com/tcort/markdown-link-check#config-file-format "Link to markdown-link-check docs")
+- [remark](https://github.com/remarkjs/remark/tree/main/packages/remark-cli "Link to remark on GitHub")
+- [markdownlint](https://github.com/DavidAnson/markdownlint#configuration "Link to markdownlint on GitHub")
+
+The extension [vscode-writing](https://github.com/ocular-d/vscode-writing "Link to extension on GitHub") provides snippets
+for some of the above plugins to make enabling or disabling checks more effortless.
 
 The example below shows VS Code configured to use `vale cli` if you use `vale server` you need to change it ($show_example)
 
