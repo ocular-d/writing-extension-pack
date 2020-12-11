@@ -1,6 +1,15 @@
 # Changelog
 
-## 1.1.2
+## 2
+
+- Remove themes and icons sets
+- Replace wordcount extension
+- Switch to official vale extension
+- Add alex extension
+- Add ocualr-d snippet extensions
+- Add markdownlint extension
+- Add readability check extension
+- Update documentation
 
 ### Fixed
 
