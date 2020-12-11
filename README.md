@@ -49,7 +49,7 @@ For a fully working setup please make sure to have all needed dependencies insta
 - [ocld-writing](https://www.npmjs.com/package/ocld-writing "Link to package on NPM")
 
 > Note
-> `ocld-writing` is a meta package, you can also install all included packages separately if you prefer that.\
+> `ocld-writing` is a meta package, if you prefer, you can install all included packages separately.\
 > You can check the [README](https://github.com/ocular-d/ocld-writing/blob/master/README.md "Link to ocld-writing README on GitHub") on [GitHub](https://github.com/ocular-d/ocld-writing "Link to ocld-writing on GItHub") for the included packages.
 ## Included Extensions
 
