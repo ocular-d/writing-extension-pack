@@ -6,8 +6,8 @@ plugins:
   lint-no-heading-punctuation:
   # Customized settings
   lint-list-item-indent: space
-  lint-maximum-line-length: 160
+  lint-maximum-line-length: 100
   lint-no-shell-dollars: true
   lint-no-duplicate-headings: false
-  lint-maximum-heading-length: 220
+  lint-maximum-heading-length: 160
   lint-heading-style: false
