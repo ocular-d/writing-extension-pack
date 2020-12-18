@@ -17,26 +17,26 @@ COL_YELLOW=$ESC_SEQ"33;01m"
 #COL_GREEN=$ESC_SEQ"32;01m"
 
 EXTENSIONS=(
-  "pnp.polacode" \
-  "bierner.markdown-emoji" \
-  "AlanWalk.markdown-toc" \
-  "streetsidesoftware.code-spell-checker" \
-  "ms-vscode.wordcount" \
-  "Coenraads.bracket-pair-colorizer-2" \
-  "ybaumes.highlight-trailing-white-spaces" \
-  "mrmlnc.vscode-remark" \
-  "johnpapa.read-time" \
-  "vincaslt.highlight-matching-tag" \
-  "pkief.material-icon-theme" \
-  "Hyzeta.vscode-theme-github-light" \
-  "eamodio.gitlens" \
-  "drewbourne.vscode-remark-lint" \
-  "oderwat.indent-rainbow" \
-  "testthedocs.vale" \
-  "jhartell.vscode-line-endings" \
-  "42Crunch.vscode-openapi" \
-  "Shan.code-settings-sync"\
-  "sdras.night-owl"
+    "ocular-d.vuepress-snippets" \
+    "ocular-d.writing" \
+    "ybaumes.highlight-trailing-white-spaces" \
+    "oderwat.indent-rainbow" \
+    "CoenraadS.bracket-pair-colorizer-2" \
+    "vale.vale-vscode" \
+    "bierner.markdown-emoji" \
+    "tlahmann.alex-linter" \
+    "jemcclin.readabilitycheck" \
+    "pnp.polacode" \
+    "kirozen.wordcounter" \
+    "Atif.vs-redoc-viewer" \
+    "silvenon.mdx" \
+    "vincaslt.highlight-matching-tag" \
+    "drewbourne.vscode-remark-lint" \
+    "eamodio.gitlens" \
+    "redhat.vscode-yaml" \
+    "tht13.rst-vscode" \
+    "DavidAnson.vscode-markdownlint" \
+    "streetsidesoftware.code-spell-checker"
 )
 
 echo -en "$COL_YELLOW Installing extensions$COL_RESET\n"
