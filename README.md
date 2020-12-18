@@ -52,7 +52,10 @@ For a fully working setup please make sure to have all needed dependencies insta
 
 > Note
 > `ocld-writing` is a meta package, if you prefer, you can install all included packages separately.\
-> You can check the [README](https://github.com/ocular-d/ocld-writing/blob/master/README.md "Link to ocld-writing README on GitHub") on [GitHub](https://github.com/ocular-d/ocld-writing "Link to ocld-writing on GItHub") for the included packages.
+> You can check the [README](https://github.com/ocular-d/ocld-writing/blob/master/README.md "Link to ocld-writing README on GitHub") on [GitHub](https://github.com/ocular-d/ocld-writing "Link to ocld-writing on GitHub") for the included packages.
+>
+> **It's recommended** that you backup your VS Code configuration and plugins **before** you install this extension!
+
 ## Included Extensions
 
 ### Markdown
@@ -87,7 +90,7 @@ For a fully working setup please make sure to have all needed dependencies insta
 
 ## Settings
 
-> To make the most out of each linter, we recommend to read their documentation.
+> To make the most out of each linter, it's recommend to read their documentation.
 
 - [alex](https://github.com/get-alex/alex#configuration "Link to alex docs")
 - [markdown-link-check](https://github.com/tcort/markdown-link-check#config-file-format "Link to markdown-link-check docs")
