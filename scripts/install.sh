@@ -39,9 +39,14 @@ EXTENSIONS=(
     "streetsidesoftware.code-spell-checker"
 )
 
+vscode-ocld () {
+	code --extensions-dir ~/.code_profiles/ocl/exts --user-data-dir ~/.code_profiles/ocl/data
+}
+
 echo -en "$COL_YELLOW Installing extensions$COL_RESET\n"
 
 for EXTENSION in "${EXTENSIONS[@]}"
 do
-    echo "Installing $EXTENSION"
+    #echo "Installing $EXTENSION"
+    vscode-ocld --install-extension $EXTENSION
 done
