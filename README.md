@@ -106,7 +106,6 @@ The example below shows VS Code configured to use `vale cli` if you use `vale se
 
 ```json
 {
-{
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
     "workbench.editor.highlightModifiedTabs": true,
@@ -118,24 +117,14 @@ The example below shows VS Code configured to use `vale cli` if you use `vale se
     "settingsSync.ignoredExtensions": [
 
     ],
-    "frontMatter.taxonomy.seoTitleLength": 60,
-    "frontMatter.taxonomy.seoDescriptionLength": 160,
-    "frontMatter.taxonomy.categories": [
-
-    ],
     "rst.preview.pythonPath": "/usr/local/bin/python3",
-    "gremlins.showInProblemPane": true,
     "editor.codeActionsOnSave": null,
     "editor.rulers": [
 
         100,
         160
       ],
-      "tws.highlightTrailingWhiteSpace": true,
-      "editor.renderWhitespace": "trailing",
-
-}
-    ]
+    "editor.renderWhitespace": "trailing",
 }
 ```
 
