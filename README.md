@@ -100,7 +100,10 @@ for some of the above plugins to make enabling or disabling checks more effortle
 
 The example below shows VS Code configured to use `vale cli` if you use `vale server` you need to change it ($show_example)
 
-`settings.json`
+<details>
+<summary>
+<b>Example settings.json file</b>
+</summary>
 
 ```json
 {
@@ -132,6 +135,8 @@ The example below shows VS Code configured to use `vale cli` if you use `vale se
 }
 ```
 
+</details>
+
 ## Contributing
 
 Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution.
@@ -144,8 +149,3 @@ Distributed under the [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.
 
 - [Pronovix](https://pronovix.com/ "Link to Pronovix website")
 - [Onna](https://onna.com "Link to website of Onna")
-
-
-##Test
-
-bla
