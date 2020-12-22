@@ -9,5 +9,9 @@ plugins:
   lint-maximum-line-length: 160
   lint-no-shell-dollars: true
   lint-no-duplicate-headings: false
-  lint-maximum-heading-length: 80
+  lint-maximum-heading-length: 60
   lint-heading-style: false
+  lint-no-tabs: false
+  lint-table-pipe-alignment: false
+  lint-no-undefined-references: false
+  lint-table-cell-padding: false
