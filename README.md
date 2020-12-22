@@ -124,7 +124,13 @@ The example below shows VS Code configured to use `vale cli` if you use `vale se
         100,
         160
       ],
-    "editor.renderWhitespace": "trailing",
+      "tws.highlightTrailingWhiteSpace": true,
+      "editor.renderWhitespace": "trailing",
+      "alex-linter.noBinary": true,
+      "cSpell.languageSettings": [
+
+      ],
+
 }
 ```
 
