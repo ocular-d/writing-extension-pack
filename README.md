@@ -95,7 +95,6 @@ For a fully working setup please make sure to have all needed dependencies insta
 - [alex](https://github.com/get-alex/alex#configuration "Link to alex docs")
 - [markdown-link-check](https://github.com/tcort/markdown-link-check#config-file-format "Link to markdown-link-check docs")
 - [remark](https://github.com/remarkjs/remark/tree/main/packages/remark-cli "Link to remark on GitHub")
-- [markdownlint](https://github.com/DavidAnson/markdownlint#configuration "Link to markdownlint on GitHub")
 
 The extension [vscode-writing](https://github.com/ocular-d/vscode-writing "Link to extension on GitHub") provides snippets
 for some of the above plugins to make enabling or disabling checks more effortless.

@@ -28,14 +28,12 @@ EXTENSIONS=(
     "jemcclin.readabilitycheck" \
     "pnp.polacode" \
     "kirozen.wordcounter" \
-    "Atif.vs-redoc-viewer" \
     "silvenon.mdx" \
     "vincaslt.highlight-matching-tag" \
     "drewbourne.vscode-remark-lint" \
     "eamodio.gitlens" \
     "redhat.vscode-yaml" \
     "tht13.rst-vscode" \
-    "DavidAnson.vscode-markdownlint" \
     "streetsidesoftware.code-spell-checker"
 )
 
