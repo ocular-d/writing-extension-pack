@@ -117,7 +117,6 @@ The example below shows VS Code configured to use `vale cli` if you use `vale se
     "settingsSync.ignoredExtensions": [
 
     ],
-    "rst.preview.pythonPath": "/usr/local/bin/python3",
     "editor.codeActionsOnSave": null,
     "editor.rulers": [
 

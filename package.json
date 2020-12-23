@@ -32,7 +32,6 @@
         "vincaslt.highlight-matching-tag",
         "drewbourne.vscode-remark-lint",
         "redhat.vscode-yaml",
-        "tht13.rst-vscode",
         "streetsidesoftware.code-spell-checker"
     ],
     "repository": {
