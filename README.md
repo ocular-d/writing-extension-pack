@@ -26,6 +26,12 @@
   </p>
 </p>
 
+> **Note**
+> **1.2.1** is the **latest** release for v1! \
+> The next release will be v2.
+> Version 2 contains **breaking changes** and will be **not compatible** with v1. \
+> If you want to test v2 and provide feedback, get the *vsix* file from [GitHub](https://github.com/ocular-d/writing-extension-pack/releases).
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -76,7 +82,7 @@ Extension package for [VS Code](https://code.visualstudio.com/ "Link to website 
 - [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension")
 - [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces "Link to trailing spaces extension")
 - [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time "Link to read time extension")
-- [Vale](https://marketplace.visualstudio.com/items?itemName=testthedocs.vale "Link to Vale extension")
+- [Vale](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server "Link to Vale extension")
 
 ### OpenAPI
 

@@ -1,6 +1,9 @@
 # Changelog
 
-## 1.1.2
+## 1.2.1
+
+- Replace "testthedocs/vale" with "errata-ai.vale-server"
+- Update README with "Note" about v1 vs v2
 
 ### Fixed
 
@@ -34,4 +37,3 @@
 ## 1.0.0
 
 - Initial release
-

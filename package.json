@@ -4,7 +4,7 @@
     "description": "A extension pack for creating stunning (API) documentation",
     "publisher": "ocular-d",
     "license": "GPL-2.0-only",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -32,7 +32,7 @@
         "eamodio.gitlens",
         "drewbourne.vscode-remark-lint",
         "oderwat.indent-rainbow",
-        "testthedocs.vale",
+        "errata-ai.vale-server",
         "jhartell.vscode-line-endings",
         "42Crunch.vscode-openapi",
         "Shan.code-settings-sync",
