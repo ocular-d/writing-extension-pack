@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ocular-d/writing-extension-pack">
-    <img src="https://raw.githubusercontent.com/ocular-d/writing-extension-pack/master/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/ocular-d/writing-extension-pack/2.0/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">(Technical) Writing</h3>
@@ -26,86 +26,126 @@
   </p>
 </p>
 
-> **Note**
-> **1.2.1** is the **latest** release for v1! \
-> The next release will be v2.
-> Version 2 contains **breaking changes** and will be **not compatible** with v1. \
-> If you want to test v2 and provide feedback, get the *vsix* file from [GitHub](https://github.com/ocular-d/writing-extension-pack/releases).
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [About the Project](#about "TOC link about")
-- [Dependencies](#dependencies "TOC link dependencies")
-- [Included Extensions](#included-extensions "TOC link included extensions")
-- [Contributing](#contributing "TOC link contributing")
-- [License](#license "TOC link license")
-- [Credits](#credits "TOC link credits")
+- [About the Project](#about "TOC link About")
+- [Prerequisite](#prerequisite "TOC link Prerequisite")
+- [Included Extensions](#included-extensions "TOC link Included Extensions")
+- [Settings](#settings "TOC link Settings")
+- [Contributing](#contributing "TOC link Contributing")
+- [License](#license "TOC link License")
+- [Credits](#credits "TOC link Credits")
 
 ## About
 
 Extension package for [VS Code](https://code.visualstudio.com/ "Link to website of VS Code") for creating stunning Markdown based documentation.
 
-## Dependencies
+This extension bundles the installation of linters and helper tools for markup and wording.
 
-- [vale](https://errata-ai.github.io/vale/ "Link to Vale linter")
-- [remark](https://github.com/remarkjs/remark-lint "Link to remark")
-- [remark-cli](https://www.npmjs.com/package/remark-cli "Link to remark-cli")
-- [remark-preset-lint-recommended](https://www.npmjs.com/package/remark-preset-lint-recommended "Link to remark-preset-lint-recommended")
-- [remark-preset-lint-consistent](https://www.npmjs.com/package/remark-preset-lint-consistent "Link to remark-preset-lint-consistent" )
-- [remark-validate-links](https://github.com/remarkjs/remark-validate-links "Link to remark-validate-links")
-- [remark-preset-lint-markdown-style-guide](https://www.npmjs.com/package/remark-preset-lint-markdown-style-guide "Link to remark-preset-lint-markdown-style-guide")
+## Prerequisite
+
+For a fully working setup please make sure to have all needed dependencies installed.
+
+- [Vale](https://docs.errata.ai/vale/about "Link to Vale website")
+- [ocld-writing](https://www.npmjs.com/package/ocld-writing "Link to package on NPM")
+
+> `ocld-writing` is a meta package, if you prefer, you can install all included packages separately.\
+> You can check the [README](https://github.com/ocular-d/ocld-writing/blob/master/README.md "Link to ocld-writing README on GitHub") on [GitHub](https://github.com/ocular-d/ocld-writing "Link to ocld-writing on GitHub") for the included packages.
+>
+> **It's recommended** that you backup your VS Code configuration and plugins **before** you install this extension!
 
 ## Included Extensions
 
-### Code
-
-- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode "Link to polacode extension")
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 "Link to bracket colorizer extension")
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker "Link to code spell checker extension")
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag "Link to matching tag extension")
-- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow "Link to indent extension")
-
-### Git
-
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "Link to GitLens")
-
 ### Markdown
 
-- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji "Link to MD emoji extension")
-- [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc "Link to MD toc extension")
-- [Remark](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-remark "Link to remark extension")
-- [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint "Link to remark lint extension")
-
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji "Link to MD emoji extension")- VS Code support for `:emoji:` in preview mode
+- [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc "Link to MD toc extension") - Generate TOC (table of contents) of headlines
+- [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint "Link to remark lint extension") - Use remark lint Markdown
 ### Writing
 
-- [Word Count](https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount "Link to word count extension")
-- [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces "Link to trailing spaces extension")
-- [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time "Link to read time extension")
-- [Vale](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server "Link to Vale extension")
+- [WordCounter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter "Link to word count extension") - Show number or words
+- [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=ybaumes.highlight-trailing-white-spaces "Link to trailing spaces extension") - Highlight color trailing white spaces in red
+- [Read Time](https://marketplace.visualstudio.com/items?itemName=johnpapa.read-time "Link to read time extension") - Show reading time
+- [Alex-linter](https://marketplace.visualstudio.com/items?itemName=TLahmann.alex-linter&utm_source=VSCode.pro&utm_campaign=AhmadAwais "Link to extension") - Catch insensitive, inconsiderate writing
+- [Readability check](https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck "Link to extension") - Check text for readability
+- [Vale VS Code](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server "Link to extension") - Linting for prose
 
-### OpenAPI
+### Spellcheck
 
-- [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi "Link to OpenAPI extension")
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker "Link to code spell checker extension")
 
-### Icons
+### Screenshot
 
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "Link to icon theme")
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode "Link to polacode extension") - A basic spell checker
 
-### Themes
+### Other
 
-- [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light "Link to GitHub theme")
-- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras "Link to Night Owl theme")
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 "Link to bracket colorizer extension") - Allows matching brackets to be identified with colors
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag "Link to matching tag extension") - Highlights matching closing and opening tags
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow "Link to indent extension") - Makes indentation easier to read
+- [VuePress Snippets](https://marketplace.visualstudio.com/items?itemName=ocular-d.vuepress-snippets "Link to extension") - Custom VuePress snippets for (technical) writing
+- [ocular-d.writing](https://marketplace.visualstudio.com/items?itemName=ocular-d.writing "Link to extension") - Snippets for (technical) writing with Markdown
 
-### VS-Code
+## Installation
 
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync "Link to settings sync extension")
+### From VSIX file
+
+1. Download the VSIX file from the [candidate package](https://github.com/ocular-d/writing-extension-pack/releases/tag/2.0.0-rc.1).
+2. In VSCode, open the command palette (CMD+SHIFT+P or CTRL+SHIFT+P) and launch **Extensions: Install from VSIX**.
+3. With the file browser, find and open the VSIX file.
+
+## Settings
+
+> To make the most out of each linter, it's recommend to read their documentation.
+
+- [alex](https://github.com/get-alex/alex#configuration "Link to alex docs")
+- [remark](https://github.com/remarkjs/remark/tree/main/packages/remark-cli "Link to remark on GitHub")
+
+The extension [ocular-d.writing](https://github.com/ocular-d/vscode-writing "Link to extension on GitHub") provides snippets
+for some of the above plugins to make enabling or disabling checks more effortless.
+
+The example below shows VS Code configured to use `vale cli` if you use `vale server` you need to change it ($show_example)
+
+<details>
+<summary>
+<b>Example settings.json file</b>
+</summary>
+
+```json
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.cursorBlinking": "solid",
+    "files.trimFinalNewlines": true,
+    "files.autoSave": "afterDelay",
+    "vale.core.useCLI": true,
+    "vale.server.provideFixes": false,
+    "settingsSync.ignoredExtensions": [
+
+    ],
+    "editor.codeActionsOnSave": null,
+    "editor.rulers": [
+
+        80,
+        160
+      ],
+      "tws.highlightTrailingWhiteSpace": true,
+      "editor.renderWhitespace": "trailing",
+      "alex-linter.noBinary": true,
+      "cSpell.languageSettings": [
+
+      ],
+
+}
+```
+
+</details>
 
 ## Contributing
 
-We are a community effort, and everybody is most welcome!
-
-Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution, we encourage contributions from everyone.
+Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution.
 
 ## License
 
@@ -114,3 +154,4 @@ Distributed under the [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.
 ## Credits
 
 - [Pronovix](https://pronovix.com/ "Link to Pronovix website")
+- [Onna](https://onna.com "Link to website of Onna")
