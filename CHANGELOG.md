@@ -1,13 +1,15 @@
 # Changelog
 
-## 1.2.1
+## 2
 
-- Update README with install instructions from VSIX file
-
-## 1.2.1
-
-- Replace "testthedocs/vale" with "errata-ai.vale-server"
-- Update README with "Note" about v1 vs v2
+- Remove themes and icons sets
+- Replace wordcount extension
+- Switch to official vale extension
+- Add alex extension
+- Add ocualr-d snippet extensions
+- Add markdownlint extension
+- Add readability check extension
+- Update documentation
 
 ### Fixed
 

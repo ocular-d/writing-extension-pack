@@ -19,4 +19,8 @@ dist/
 var/
 docs/public/
 .git-bak/
+<<<<<<< HEAD
 node_modules/
+=======
+node_modules
+>>>>>>> 2.0

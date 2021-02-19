@@ -3,9 +3,12 @@
         "changelog",
         "git",
         "hub",
+        "markdownlint",
+        "ocualr",
         "polacode",
         "readme",
         "uniqueid",
-        "validate"
+        "validate",
+        "wordcount"
     ]
 }

@@ -25,19 +25,6 @@ package: ## Builing extension package
 publish: ## Publish package to Marketplace
 	vsce publish
 
-.PHONY: serve-docs
-serve-docs: ## Start docs in "server" mode
-	hugo server -ws docs/
-
-.PHONY: init
-init: ## Initialize project
-	@echo "Initialize docs submodule for theme"
-	@git submodule init
-	@echo "Updating git submodule"
-	@git submodule update
-	@echo "Adding gh-pages worktree"
-	@git worktree add -B gh-pages docs/public/ origin/gh-pages
-
 .PHONY: version-bump
 version-bump: ## Update version
 	npx version-bump-prompt
