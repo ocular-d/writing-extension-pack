@@ -87,6 +87,14 @@ For a fully working setup please make sure to have all needed dependencies insta
 - [VuePress Snippets](https://marketplace.visualstudio.com/items?itemName=ocular-d.vuepress-snippets "Link to extension") - Custom VuePress snippets for (technical) writing
 - [ocular-d.writing](https://marketplace.visualstudio.com/items?itemName=ocular-d.writing "Link to extension") - Snippets for (technical) writing with Markdown
 
+## Installation
+
+### From VSIX file
+
+1. Download the VSIX file from the [candidate package](https://github.com/ocular-d/writing-extension-pack/releases/tag/2.0.0-rc.1).
+2. In VSCode, open the command palette (CMD+SHIFT+P or CTRL+SHIFT+P) and launch **Extensions: Install from VSIX**.
+3. With the file browser, find and open the VSIX file.
+
 ## Settings
 
 > To make the most out of each linter, it's recommend to read their documentation.
