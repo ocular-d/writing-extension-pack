@@ -26,6 +26,10 @@
   </p>
 </p>
 
+> **Note**
+> Version 2 contains **breaking changes** and will be **not compatible** with v1. \
+> If you want to test v2 and provide feedback, get the *vsix* file from [GitHub](https://github.com/ocular-d/writing-extension-pack/releases).
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -62,6 +66,7 @@ For a fully working setup please make sure to have all needed dependencies insta
 - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji "Link to MD emoji extension")- VS Code support for `:emoji:` in preview mode
 - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc "Link to MD toc extension") - Generate TOC (table of contents) of headlines
 - [Remark Lint](https://marketplace.visualstudio.com/items?itemName=drewbourne.vscode-remark-lint "Link to remark lint extension") - Use remark lint Markdown
+
 ### Writing
 
 - [WordCounter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter "Link to word count extension") - Show number or words
@@ -97,13 +102,14 @@ For a fully working setup please make sure to have all needed dependencies insta
 
 ## Settings
 
-> To make the most out of each linter, it's recommend to read their documentation.
+> To make the most out of each linter and to configure it to your needs, it's recommend to read their documentation!
 
 - [alex](https://github.com/get-alex/alex#configuration "Link to alex docs")
 - [remark](https://github.com/remarkjs/remark/tree/main/packages/remark-cli "Link to remark on GitHub")
+- [Vale](https://docs.errata.ai/vale/about "Link to Vale website")
 
 The extension [ocular-d.writing](https://github.com/ocular-d/vscode-writing "Link to extension on GitHub") provides snippets
-for some of the above plugins to make enabling or disabling checks more effortless.
+for some of the above plugins to make enabling or disabling checks effortless.
 
 The example below shows VS Code configured to use `vale cli` if you use `vale server` you need to change it ($show_example)
 
