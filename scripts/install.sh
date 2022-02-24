@@ -22,7 +22,6 @@ EXTENSIONS=(
   "AlanWalk.markdown-toc" \
   "streetsidesoftware.code-spell-checker" \
   "ms-vscode.wordcount" \
-  "Coenraads.bracket-pair-colorizer-2" \
   "ybaumes.highlight-trailing-white-spaces" \
   "mrmlnc.vscode-remark" \
   "johnpapa.read-time" \
