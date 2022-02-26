@@ -20,3 +20,4 @@ var/
 docs/public/
 .git-bak/
 node_modules/
+lefthook.yml
