@@ -2,7 +2,7 @@
 
 # About:
 # Bash script to install all extensions used
-# for https://github.com/ocular-d/writing-extension-pack.
+# for https://github.com/ocular-d/writing-extension
 #
 # ONLY tested on macOS and Ubuntu
 
