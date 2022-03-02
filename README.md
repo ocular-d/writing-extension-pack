@@ -27,7 +27,7 @@
 </p>
 
 > **Note**
-> **1.2.1** is the **latest** release for v1! \
+> **1.2.2** is the **latest** release for v1! \
 > The next release will be v2.
 > Version 2 contains **breaking changes** and will be **not compatible** with v1. \
 > If you want to test v2 and provide feedback, get the *vsix* file from [GitHub](https://github.com/ocular-d/writing-extension-pack/releases).
