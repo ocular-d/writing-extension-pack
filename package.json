@@ -4,7 +4,7 @@
     "description": "A extension pack for creating stunning (API) documentation",
     "publisher": "ocular-d",
     "license": "GPL-2.0-only",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -22,7 +22,6 @@
         "AlanWalk.markdown-toc",
         "streetsidesoftware.code-spell-checker",
         "ms-vscode.wordcount",
-        "Coenraads.bracket-pair-colorizer-2",
         "ybaumes.highlight-trailing-white-spaces",
         "mrmlnc.vscode-remark",
         "johnpapa.read-time",

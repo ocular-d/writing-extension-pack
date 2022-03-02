@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2
+
+- Remove Bracket Pair Colorizer 2
+
 ## 1.2.1
 
 - Replace "testthedocs/vale" with "errata-ai.vale-server"
